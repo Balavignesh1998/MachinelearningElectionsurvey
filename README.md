@@ -40,6 +40,7 @@ This project involves predicting party outcomes where the target variable is bin
 - **Bagging**
 
 ### Challenges:
+Challenges included tuning the model hyperparameters using Grid Search CV to prevent overfitting.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
