@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data science & Business analytics**v
 
-- 🔭 Completed Project [Undergraduate Student Demographics Survey at Clear Mountain State University (CMSU)"](https://docs.google.com/document/d/1ddTjvWrZj46L0tl49Ww5t1pTd2nrI--B/edit?usp=drive_link&ouid=113780203681202619786&rtpof=true&sd=true)
+- 🔭 Completed Project ["Machine learning,Datamining,Predictive Modeling ,Advance Statistic"](https://docs.google.com/document/d/1ddTjvWrZj46L0tl49Ww5t1pTd2nrI--B/edit?usp=drive_link&ouid=113780203681202619786&rtpof=true&sd=true)
 
 - 👯 Data Mining [1.Clustering Digital Ads Data: Unlocking Insights in Digital Marketing 2.Principal Component Analysis (PCA) for Female Headed Household Data:Uncovering Insights in Indian Census Data with PCA](https://docs.google.com/document/d/1ddTjvWrZj46L0tl49Ww5t1pTd2nrI--B/edit?usp=drive_link&ouid=113780203681202619786&rtpof=true&sd=true)
 
